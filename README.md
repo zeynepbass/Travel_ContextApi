@@ -1,7 +1,7 @@
 <div class="container" >
   <p>ContextApi ile ilgili crud işlemleri yapıldı</p>
   <ul>
-    <h7>Film Ara</h7>
+    <h6>Film Ara</h6>
     <li>Filmleri başlığa göre bulmak için arama çubuğunu kullanın.
 </li>
     <li>Sonuçlar liste formatında görüntülenecektir.</li>
