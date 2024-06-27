@@ -7,7 +7,7 @@
     <li>Sonuçlar liste formatında görüntülenecektir.</li>
   </ul>
     <ul>
-    <h7>CRUD işlemleri</h7>
+    <h6>CRUD işlemleri</h6>
     <li>CREATE : Yeni bir film eklemek için formu kullanın.
 </li>
     <li>GET : Ayrıntılarını görüntülemek için bir film öğesine tıklayın.</li>
