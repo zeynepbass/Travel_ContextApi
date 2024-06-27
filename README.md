@@ -1,4 +1,4 @@
-<div class="container" style={background-color:"black"}>
+<div class="container" >
   <p>ContextApi ile ilgili crud işlemleri yapıldı</p>
   <ul>
     <h7>Film Ara</h7>
