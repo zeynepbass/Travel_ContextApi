@@ -1,0 +1,65 @@
+
+
+  .main-area {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .login {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Sayfanın tamamını kaplaması için */
+  }
+  
+  .form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 400px; /* Formun genişliğini belirleyebilirsiniz */
+    padding: 20px;
+    border: 1px solid #ccc; /* İsteğe bağlı */
+    border-radius: 10px; /* İsteğe bağlı */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* İsteğe bağlı */
+    background-color: #fff; /* İsteğe bağlı */
+  }
+  .form input{
+    width:100%
+  }
+  form {
+    width: 600px; /* Formun genişliğini artırın */
+  }
+  
+  .form-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .form-group label {
+    width: 30%; /* Label genişliği */
+    margin-right: 10px; /* Label ile input arasında boşluk */
+  }
+  
+  .form-group input {
+    width: 70%; /* Input genişliği */
+    padding: 5px;
+    box-sizing: border-box;
+  }
+  .button-container {
+    display: flex;
+    justify-content: center;
+
+  }
+  
+  .btnSubmit {
+    width: 150px;
+    height: 50px;
+    font-size: 15px;
+    border-radius: 10px;
+
+  }
